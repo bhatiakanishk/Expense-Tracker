@@ -1,0 +1,18 @@
+/* Class selectors to style the amount displayed on the home page */
+
+.money {
+    font-size: 1.5em;
+    letter-spacing: 1px;
+    margin: 5px 0;
+    font-weight: bold;
+  }
+  
+  /*Styled total income value*/
+  .money.plus {
+    color: #24d26d;
+  }
+  
+  /*Styled total expense value*/
+  .money.minus {
+    color: #c02b2b;
+  }

@@ -1,0 +1,13 @@
+body {
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+:root, body, html {
+    background-color: #ffffff;
+    box-sizing: border-box;
+}
+
+div, h1, h2, header, html, i , img, label, li, nav, p, small, span, ul {
+    margin: 0;
+}
